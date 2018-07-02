@@ -33,3 +33,5 @@ Au moins 5 points ont été traités et un fichier html a été produit
 * CSS grid system
 * Common device breakpoints
 
+## Extra+
+Débuguer le readme de cet exercice ou les éléments de sous-liste Markdown "..*" ne sont pas bien interprétés...
