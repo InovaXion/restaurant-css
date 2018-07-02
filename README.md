@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/simplon-roanne/restaurant-css
-cd html-css-1
+cd restaurant-css
 docker-compose up
 ```
 Server will be ready on http://localhost:8080
