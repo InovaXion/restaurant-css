@@ -3,7 +3,7 @@
 ## Démarrage du projet
 
 ```bash
-git clone https://github.com/simplon-roanne/html-css-1
+git clone https://github.com/simplon-roanne/restaurant-css
 cd html-css-1
 docker-compose up
 ```
