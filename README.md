@@ -21,7 +21,7 @@ Les tâches à effectuées sont les suivantes :
 6. La section _Gallery_ doit être adaptée de la manière suivante : 
 ..* 3 photos par lignes à partir de 992px
 ..* 2 photos par lignes à partir de 768px
-..* 1 photo par lignes en dessous de 768px.
+..* 1 photo par lignes en dessous de 576px.
 7. Extra : Créer une section de mise en page de texte libre, sur fond blanc, entre les sections _Intro_ et _Gallery_. La section devra comporter une balise de titre et 2 de paragraphes. Du texte de substitution pourra être utilisé.
 
 ## Accomplissement
