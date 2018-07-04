@@ -15,7 +15,7 @@ Le restaurant _Simplon Gourmet_ veut effectuer une refonte partielle de son site
 Les tâches à effectuées sont les suivantes :
 1. Augmenter la taille des balises de titrages de 20%
 2. Rendre opaque le fond des formulaires de réservation et inverser la couleur des boutons. Les effets au survol devront être adaptés
-3. Augmenter la graisse de la police d'écriture du barre de navigation et appliquer la couleur suivante au bouton de réservation : PALEGOLDENROD, la couleur du texte devra nécessairement être modifiée.
+3. Augmenter la graisse de la police d'écriture de la barre de navigation et appliquer la couleur suivante au bouton de réservation ("BOOK") : PALEGOLDENROD, la couleur du texte devra nécessairement être modifiée.
 4. Augmenter seulement la taille de la police d'écriture des prix des menus 50% en lui appliquant la couleur blanche
 5. N'afficher que deux évenements sur la page d'accueil, la largeur des événements devra alors être adaptée.
 6. La section _Gallery_ doit être adaptée de la manière suivante : 
